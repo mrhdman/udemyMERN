@@ -1,3 +1,4 @@
 {
-  "mongoURI": "mongodb+srv://matt123:matt123@testcluster-pprxs.mongodb.net/test?retryWrites=true"
+  "mongoURI": "mongodb+srv://matt123:matt123@testcluster-pprxs.mongodb.net/test?retryWrites=true",
+  "jwtSecret": "thesecrettoken"
 }
